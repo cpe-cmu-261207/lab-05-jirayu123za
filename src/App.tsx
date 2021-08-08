@@ -1,5 +1,5 @@
 import React from 'react';
-import ToDoList from './TodoList';
+import ToDoList from './ToDoList';
 import Header from './Header';
 import Footer from './Footer';
 
